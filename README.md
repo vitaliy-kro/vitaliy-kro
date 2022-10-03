@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on some IT projects
 - 🤔 I’m looking for help with employment
-- 📫 How to reach me: [Email](krochakv6@gmail.com) - _Email
+- 📫 How to reach me: [Email](krochakv6@gmail.com), [Linkedin](https://www.linkedin.com/in/vitaliy-krochak/)
