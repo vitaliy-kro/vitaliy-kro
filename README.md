@@ -1,8 +1,8 @@
 # Senior developer under construction 💻
 
-### Hi there, I'm Vitaliy 👋
+# Hi there, I'm Vitaliy 👋
 
-- # 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on some pet projects<br>🌱 I’m currently learning React.js<br>👯 I’m looking to collaborate on some IT projects<br>🤔 I’m looking for help with employment<br>📫 How to reach me: krochakv6@gmail.com
 
 
