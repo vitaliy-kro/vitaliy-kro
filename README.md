@@ -1,4 +1,4 @@
-# Senior developer under construction 💻
+# Always Growing, Always Coding 🚀
 
 ## Hi there, I'm Vitaliy 👋
 
